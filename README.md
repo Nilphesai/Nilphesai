@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bonjour 👋
 
-<!--
-**Nilphesai/Nilphesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Ho Duy-Tan (mais appelez moi Gaël), en formation pour le diplome de Developpeur web et web mobile. Vous retrouverez ici tous les différents exercice et projets fait pour progréssé dans cette formation.
 
-Here are some ideas to get you started:
+La page est encore un peu vide, mais elle se remplira très vite !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Compéthence :
+- HTML/CSS/javascript
+- PHP
+- Python
+- C#
+
+Où me trouver :</br>
+<a href="https://www.linkedin.com/in/duy-tan-ho-00245b28a/" > linkedin </a>
