@@ -1,6 +1,6 @@
 ## Bonjour 👋
 
-Je suis Ho Duy-Tan (mais appelez moi Gaël), en formation pour le diplome de Developpeur web et web mobile. Vous retrouverez ici tous les différents exercice et projets fait pour progréssé dans cette formation.
+Je suis Ho Duy-Tan (mais appelez moi Gaël), en formation pour le diplome de Developpeur web et web mobile. Vous retrouverez ici tous les différents exercice et projets fait pour progrésser dans cette formation.
 
 La page est encore un peu vide, mais elle se remplira très vite !
 
